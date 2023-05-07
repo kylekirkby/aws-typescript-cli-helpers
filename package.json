@@ -1,0 +1,14 @@
+{
+  "name": "aws-typescript-cli-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": {
+    "name": "Kyle Kirkby"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@aws-sdk/credential-providers": "^3.328.0",
+    "@aws-sdk/client-dynamodb": "^3.328.0"
+  }
+}
